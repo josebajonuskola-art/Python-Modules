@@ -1,0 +1,8 @@
+pandas>=2.1.0
+numpy>=1.25.0
+requests>=2.31.0
+matplotlib>=3.7.2
+
+# This file contains the required libraries and modules with their respective versions.
+# To install the packages, run: pip install -r <name_of_file>
+# Note: Make sure to activate the environment before running the installation command.
